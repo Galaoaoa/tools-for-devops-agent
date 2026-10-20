@@ -12,7 +12,7 @@ description: ALWAYS use this skill in the beginning of any incident investigatio
   patterns that inform the current investigation.
 metadata:
   author: udid-aws
-  version: "1.0.0"
+  version: "2.1.0"
   aws-devops-agent-skills.agent-types: "Chat tasks, Incident RCA"
   aws-devops-agent-skills.aws-services: "AWS Support"
   aws-devops-agent-skills.technical-domains: "Operations"
@@ -200,3 +200,7 @@ Were relevant historical cases found?
   at `critical` severity, the current incident may warrant similar urgency.
 - **Cross-reference with deployments**: If a past case was caused by a
   deployment, check if a similar deployment occurred before the current incident.
+
+## Notes
+
+Check the case severity before escalating.

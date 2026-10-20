@@ -48,3 +48,5 @@ aws-routing/
 > ⚠️ This skill is sample code, not intended for production use without additional review and
 > testing. Validate all routing guidance in a non-production environment first. Recommendations are
 > based on public AWS documentation and field experience and may change as AWS services evolve.
+
+See the references/ folder for detailed routing patterns.
